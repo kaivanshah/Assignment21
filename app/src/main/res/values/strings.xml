@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Assignment21</string>
+    <string name="Violet">VIOLET</string>
+    <string name="Indigo">INDIGO</string>
+    <string name="Blue">BLUE</string>
+    <string name="Green">GREEN</string>
+    <string name="Yellow">YELLOW</string>
+    <string name="Orange">ORANGE</string>
+    <string name="Red">RED</string>
+</resources>
